@@ -18,11 +18,11 @@ O projeto faz parte do ecossistema **OR System**, marca sob a qual são desenvol
 
 ### 🎯 Problema que resolve
 
-[PREENCHER — ex: "Permitir que clientes visualizem e personalizem camisetas antes de comprar, sem depender de software instalado." ou "Oferecer uma ferramenta de demonstração de estampas para lojistas."]
+["Permitir que clientes visualizem e personalizem camisetas antes de comprar, sem depender de software instalado." ou "Oferecer uma ferramenta de demonstração de estampas para lojistas."]
 
 ### 👥 Público-alvo
 
-[PREENCHER — ex: "Pequenos lojistas de vestuário", "clientes finais da marca", "uso interno da OR System" etc.]
+[Pequenos lojistas de vestuário,clientes finais da marca, uso interno da OR System]
 
 ---
 
