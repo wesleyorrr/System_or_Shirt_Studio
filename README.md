@@ -31,4 +31,4 @@ O projeto faz parte do ecossistema **OR System**, marca sob a qual são desenvol
 > **CLIQUE NO LINK ABAIXO:**
 
 ```markdown
- [Sistema para loja que personalizam roupas](https://wesleyorrr.github.io/System_or_Shirt_Studio/)
+ [Sistema para loja que personalizam roupas]([https://wesleyorrr.github.io/System_or_Shirt_Studio/])
