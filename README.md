@@ -62,6 +62,3 @@ Permitir que **clientes e lojistas** visualizem e personalizem camisetas antes d
 🔗 [**Acessar o projeto**](https://wesleyorrr.github.io/System_or_Shirt_Studio/)
 
 ---
-
-## 📁 Estrutura do projeto
-
