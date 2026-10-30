@@ -26,9 +26,6 @@ O projeto faz parte do ecossistema **OR System**, marca sob a qual são desenvol
 
 ---
 
-## 🖼️ Demonstração
+## 📷 Demonstração
 
-> **CLIQUE NO LINK ABAIXO:**
-
-
- [Sistema para loja que personalizam roupas]([https://wesleyorrr.github.io/System_or_Shirt_Studio/])
+[ Click aqui para acessar](https://wesleyorrr.github.io/System_or_Shirt_Studio/)
